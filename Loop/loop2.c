@@ -1,6 +1,6 @@
 #include <stdio.h>
 /* 
-Mencetak angka berurutan rapih
+Mencetak simbol / huruf berurutan rapih
 dalam bentuk kolom dan baris
 -----------
 output
