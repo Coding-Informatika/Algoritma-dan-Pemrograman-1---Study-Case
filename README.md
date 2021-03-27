@@ -4,3 +4,6 @@ Coding dibuat berupa study case<br>
 Bahasa pemrograman yang digunakan adalah C
 
 Penjelasan coding dan juga output yang diharapkan terdapat pada masing-masing file dalam bentuk komentar
+
+
+https://github.com/Coding-Informatika
